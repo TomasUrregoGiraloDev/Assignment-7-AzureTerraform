@@ -1,0 +1,17 @@
+# Dependencias
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Entorno local
+.env
+
+# Jest
+coverage/
