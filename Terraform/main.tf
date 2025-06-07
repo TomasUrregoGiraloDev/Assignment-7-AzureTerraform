@@ -29,7 +29,7 @@ resource "azurerm_windows_web_app" "webapp" {
 
   site_config {
     minimum_tls_version = "1.2"
-    always_on           = false
+    always_on           = false 
 
     application_stack {
       node_version = "~18"  
