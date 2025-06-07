@@ -1,2 +1,4 @@
 Assignment6-jenkins-main/
 Terraform/.terraform/
+Terraform/.terraform.lock.hcl
+Terraform/terraform.tfstate.backup
